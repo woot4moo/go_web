@@ -4,7 +4,7 @@
 *.so
 
 bin/
-src/
+pkg/
 Godeps/
 
 # Folders
